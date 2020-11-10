@@ -1,0 +1,2 @@
+# GasHydrateCalculation
+只是一个基于Matlab编写的，用于水合物相平衡计算和分离计算程序组
